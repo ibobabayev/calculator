@@ -1,1 +1,1 @@
-Стандартный мини калькулятор
+Mini calculator using Tkinter
